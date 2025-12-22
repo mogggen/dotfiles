@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "none",
+    "clangd.path": "/home/morgan/.config/VSCodium/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/20.1.8/clangd_20.1.8/bin/clangd",
+    "workbench.sideBar.location": "right",
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "workbench.editor.empty.hint": "hidden",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "git.confirmSync": false
+}
