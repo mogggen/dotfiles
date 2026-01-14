@@ -1,0 +1,142 @@
+{
+  "workbench.colorTheme": "Chandrian Owl Theme",
+  "update.showReleaseNotes": false,
+  "workbench.editor.empty.hint": "hidden",
+  "diffEditor.maxComputationTime": 0,
+  "window.restoreWindows": "preserve",
+  "extensions.autoUpdate": "onlyEnabledExtensions",
+  "cmake.showOptionsMovedNotification": false,
+  "svg.preview.mode": "svg",
+  "workbench.startupEditor": "none",
+  "hediet.vscode-drawio.resizeImages": null,
+  "files.hotExit": "onExitAndWindowClose",
+  "editor.formatOnPaste": false,
+  "cmake.configureOnOpen": true,
+  "workbench.sideBar.location": "right",
+  "editor.renderWhitespace": "all",
+  "editor.acceptSuggestionOnCommitCharacter": true,
+  "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.highlightModifiedTabs": true,
+  "multiDiffEditor.experimental.enabled": true,
+  "material-icon-theme.folders.color": "#ddd",
+  "material-icon-theme.files.color": "#ef5350",
+  "material-icon-theme.saturation": 1,
+  "[sql]": {
+    "editor.defaultFormatter": "ms-mssql.mssql"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "git.decorations.enabled": true,
+  "workbench.editor.pinnedTabsOnSeparateRow": true,
+  "zenMode.showTabs": "none",
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "scm.diffDecorations": "minimap",
+  "editor.scrollbar.horizontalScrollbarSize": 0,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.highlightActiveBracketPair": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+  "editor.guides.highlightActiveIndentation": false,
+  "[python]": {
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnType": true,
+    "editor.guides.indentation": true
+  },
+  "editor.cursorSmoothCaretAnimation": "off",
+  "editor.cursorBlinking": "phase",
+  "editor.renderLineHighlight": "none",
+  "editor.guides.indentation": false,
+  "editor.guides.bracketPairs": false,
+  "editor.guides.bracketPairsHorizontal": false,
+  "editor.matchBrackets": "never",
+  "editor.lineHeight": 1.15,
+  "diffEditor.renderSideBySide": true,
+  "git.openRepositoryInParentFolders": "always",
+  "editor.accessibilitySupport": "off",
+  "files.associations": {
+    "*.razor": "razor"
+  },
+  "breadcrumbs.enabled": false,
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "hediet.vscode-drawio.codeLinkActivated": false,
+  "bicep.enableSurveys": false,
+  "editor.tabSize": 2,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "editor.formatOnSave": true,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "*.razor": "${capture}.razor.cs, ${capture}.razor.css",
+    "*.json": "${capture}.dev.json, ${capture}.prod.json, ${capture}.stage.json, ${capture}.test.json"
+  },
+  "sonarlint.connectedMode.connections.sonarqube": [
+    {
+      "serverUrl": "https://sonarqube-bidcon.elecosoft.se",
+      "connectionId": "https-sonarqube-bidcon-elecosoft-se"
+    }
+  ],
+  "sonarlint.focusOnNewCode": true,
+  "files.autoSave": "afterDelay",
+  "redhat.telemetry.enabled": false,
+  "workbench.editor.untitled.labelFormat": "name",
+  "editor.defaultFormatter": "ms-dotnettools.csdevkit",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "notebook.lineNumbers": "on",
+  "explorer.confirmDragAndDrop": false,
+  "cmake.pinnedCommands": [
+    "workbench.action.tasks.configureTaskRunner",
+    "workbench.action.tasks.runTask"
+  ],
+  "terminal.integrated.stickyScroll.enabled": true,
+  "editor.stickyScroll.maxLineCount": 3,
+  "editor.minimap.showSlider": "always",
+  "editor.minimap.enabled": false,
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "chatgpt.lang": "en",
+  "search.searchEditor.reusePriorSearchConfiguration": true,
+  "workbench.panel.showLabels": false,
+  "workbench.layoutControl.enabled": false,
+  "window.menuBarVisibility": "classic",
+  "window.commandCenter": false,
+  "markdown.preview.breaks": true,
+  "mssql.enableRichExperiences": true,
+  "git.blame.editorDecoration.enabled": true,
+  "git.blame.statusBarItem.enabled": true,
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "git.diagnosticsCommitHook.Enabled": true,
+  "notebook.diff.experimental.toggleInline": true,
+  "terminal.integrated.suggest.enabled": true,
+  "[go.mod]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "chat.commandCenter.enabled": false,
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "mssql.connectionGroups": [
+    {
+      "name": "ROOT",
+      "id": "F2A99216-6ED2-496A-8A55-BECD712D9877"
+    }
+  ],
+  "mssql.connections": [],
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "xml.server.preferBinary": true
+}
