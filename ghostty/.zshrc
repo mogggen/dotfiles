@@ -70,6 +70,7 @@ alias "spN=dbus-send --dest=org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlaye
 alias "git=torsocks git"
 alias "wget=torsocks wget"
 alias "curl=torsocks curl"
+alias "cmake.gitignore=curl --output .\.gitignore https://raw.githubusercontent.com/github/gitignore/refs/heads/main/CMake.gitignore"
 
 alias "histgrep=grep ~/.histfile"
 
