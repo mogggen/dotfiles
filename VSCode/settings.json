@@ -54,7 +54,9 @@
   "git.openRepositoryInParentFolders": "always",
   "editor.accessibilitySupport": "off",
   "files.associations": {
-    "*.razor": "razor"
+    "*.razor": "razor",
+    "*.{a80,z80,asm,inc,s}": "asm-collection",
+    "*.{list,lis}": "asm-collection-list"
   },
   "breadcrumbs.enabled": false,
   "editor.unicodeHighlight.nonBasicASCII": false,
